@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi! I'm Owen 👋
+
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader;Data+Scientist;Weight+Lifter)](https://git.io/typing-svg)
+
+
+I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and ML enthusiast and love learning new technologies. I'm passionate about making CS and the tech industry less daunting and making it more widespread!
+
 
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
