@@ -6,6 +6,10 @@
 
 I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and ML enthusiast and love learning new technologies. I'm passionate about making CS and the tech industry less daunting and making it more widespread!
 
+ I'm currently working at:
+  <!-- - Nowhere! Would love to work on new projects :) -->
+  - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips. 
+ 
 
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
