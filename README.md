@@ -4,11 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader;Data+Scientist;Weight+Lifter)](https://git.io/typing-svg)
 
 
-I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and ML enthusiast and love learning new technologies. I'm passionate about making CS and the tech industry less daunting and making it more widespread!
+I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and ML enthusiast and love learning new technologies. I'm passionate about making CS and the tech industry less daunting and more widespread!
 
  I'm currently working at:
   <!-- - Nowhere! Would love to work on new projects :) -->
-  - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips. 
+  - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips.
+  - 🔬 [LASR Labs](https://quote.ucsd.edu/lasr/lab-members/) as an Undergraduate Research Assistant, researching how STT LLMs interact with child and accented speech!
+  - 🧑🏻‍🏫 [ACM @ UCSD](https://acmucsd.com/) as a Professional Events Director, teaching how to approach Leetcode and other tech interview subjects!
  
 
 <!--
