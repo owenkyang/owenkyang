@@ -15,6 +15,9 @@ I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and M
 
  I previously was at:
   - 🖥️ [AT&T Labs](https://about.att.com/sites/labs), as a Software Engineering Intern where I worked on Multimodality Models and AR.
+
+
+Some Projects I am working on:
     
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
