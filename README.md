@@ -10,9 +10,10 @@ I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and M
   <!-- - Nowhere! Would love to work on new projects :) -->
   - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips.
   - 🔬 [LASR Labs](https://quote.ucsd.edu/lasr/lab-members/) as an Undergraduate Research Assistant, researching how STT LLMs interact with child and accented speech!
-  - 🧑🏻‍🏫 [ACM @ UCSD](https://acmucsd.com/) as a Professional Events Director, teaching how to approach Leetcode and other tech interview subjects!
- 
-
+  - 🧑🏻‍🏫 [Association for Computing Machinery (ACM) @ UCSD](https://acmucsd.com/) as a Professional Events Director, teaching how to approach Leetcode and other tech interview subjects!
+ I previously was at:
+  - 🖥️ [AT&T Labs](https://about.att.com/sites/labs), as a Software Engineering Intern where I worked on Multimodality Models and AR.
+    
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
