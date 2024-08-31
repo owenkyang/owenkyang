@@ -19,6 +19,8 @@ I'm a third-year Data Science student at UC San Diego 🔱. I'm a huge API and M
 
 Some Projects I am working on:
   - Automatic Remote Meeting Attendance Taker that uses Computer Vision to automatically mark attendance for your remote classes and meetings!
+
+Current Learning Goals:
     
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
