@@ -24,7 +24,7 @@ Some Projects I am working on:
 Current Learning Goals:
   - Learn more about Cloud Computing and Networking
   - Have a greater understanding of Databases and API development
-  - Learn C++!
+  - Continue to learn C++!
     
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
