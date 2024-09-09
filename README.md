@@ -8,7 +8,7 @@ I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a hu
 
  I'm currently working at:
   <!-- - Nowhere! Would love to work on new projects :) -->
-  - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips. (HDSI Scholarship Project)
+  - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Developer, quantizing a PointNet model to be deployed on FPGA chips. (HDSI Research Scholarship Project)
   - 🔬 [LASR Labs](https://quote.ucsd.edu/lasr/lab-members/) as an Undergraduate Research Assistant, researching how STT LLMs interact with child and accented speech!
   - 🧑🏻‍🏫 [Association for Computing Machinery (ACM) @ UCSD](https://acmucsd.com/) as a Professional Events Director, teaching how to approach Leetcode and other tech interview subjects!
 
