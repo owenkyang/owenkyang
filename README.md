@@ -1,7 +1,7 @@
 # Hi! I'm Owen 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader;Data+Scientist;Weight+Lifter;I+Can't+Cry+About+Having+A+Lot+On+My+Plate+When+My+Goal+Was+To+Eat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader;Data+Scientist;Weight+Lifter;I+Can't+Cry+About+Having;A+Lot+On+My+Plate;When+My+Goal+Was+To+Eat)](https://git.io/typing-svg)
 
 
 I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a huge API and ML enthusiast and love learning new technologies. I'm passionate about making the tech industry less daunting and more widespread!
@@ -16,14 +16,9 @@ I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a hu
  I previously was at:
   - 🖥️ [AT&T Labs](https://about.att.com/sites/labs), as a Software Engineering Intern where I worked on Multimodality Models and AR.
 
-
 Some Projects I am working on:
   - Automatic Remote Meeting Attendance Taker that uses Computer Vision to automatically mark attendance for your remote classes and meetings!
   - UCSD Class Schedule to Google Calendar Generator
-
-Current Learning Goals:
-  - Learn more about Cloud Computing and Networking
-  - Have a greater understanding of Databases and API development
     
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
