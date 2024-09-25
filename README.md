@@ -17,7 +17,6 @@ I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a hu
   - 🖥️ [AT&T Labs](https://about.att.com/sites/labs), as a Software Engineering Intern where I worked on Multimodality Models and AR.
 
 Some Projects I am working on:
-  - Automatic Remote Meeting Attendance Taker that uses Computer Vision to automatically mark attendance for your remote classes and meetings!
   - UCSD Class Schedule to Google Calendar Generator
     
 <!--
