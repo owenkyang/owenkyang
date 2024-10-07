@@ -15,7 +15,7 @@ I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a hu
 
  I previously was at:
   - 🖥️ [AT&T](https://about.att.com/sites/labs), as a Technology Intern where I worked on Multimodality Models and AR.
-  - 🖥️ [Targify.io] (https://www.linkedin.com/company/targify-io/about/), as a Software Engineering Intern where I worked on Full Stack development.
+  - 🖥️ [Targify.io](https://www.linkedin.com/company/targify-io/about/), as a Software Engineering Intern where I worked on Full Stack development.
 
 Some Projects I am working on:
   - UCSD Class Schedule to Google Calendar Generator
