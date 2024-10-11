@@ -21,6 +21,7 @@ Some Projects I am working on:
   - SchedulEase:
     - Do you hate manually inputting your timetable into your calendar?
     - Is it painfully tedious to switch back and forth between your class syllabus and calendar to input every due date?
+   
     Take a screenshot of any schedule: classes, syllabus, and use SchedulEase to automatically input it in your Google calendar!
     
 <!--
