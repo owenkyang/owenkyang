@@ -18,7 +18,10 @@ I'm a third-year Data Science and Math-CS student at UC San Diego 🔱. I'm a hu
   - 🖥️ [Targify.io](https://www.linkedin.com/company/targify-io/about/), as a Software Engineering Intern where I worked on Full Stack development.
 
 Some Projects I am working on:
-  - UCSD Class Schedule to Google Calendar Generator
+  - SchedulEase:
+    - Do you hate manually inputting your timetable into your calendar?
+    - Is it painfully tedious to switch back and forth between your class syllabus and calendar to input every due date?
+    Take a screenshot of any schedule: classes, syllabus, and use SchedulEase to automatically input it in your Google calendar!
     
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
