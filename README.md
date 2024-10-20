@@ -24,6 +24,7 @@ Some Projects I am working on:
     - Is being organized something you struggle with?
    
     Take a screenshot of any schedule: classes, syllabus, and use SchedulEase to automatically input it in your Google calendar!
+
 Hackathon Wins:
 - [Big Data Hackathon](https://bigdataforsandiego.github.io/) won $1000 for Most Innovative Project! Check it out here: 
 <!--
