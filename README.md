@@ -26,7 +26,7 @@ Some Projects I am working on:
     Take a screenshot of any schedule: classes, syllabus, and use SchedulEase to automatically input it in your Google calendar!
 
 Hackathon Wins:
-- [Big Data Hackathon](https://bigdataforsandiego.github.io/) won $1000 for Most Innovative Project! Check it out here: 
+- [Big Data Hackathon](https://bigdataforsandiego.github.io/) won $1000 for Most Innovative Project! Check it out here: https://github.com/BigDataForSanDiego/Team-229
 <!--
 **owenkyang/owenkyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
