@@ -25,7 +25,7 @@ Some Projects I am working on:
    
     Take a screenshot of any schedule: classes, syllabus, and use SchedulEase to automatically input it in your Google calendar!
 
-Hackathon Wins:
+Hackathons:
 - [Big Data Hackathon](https://bigdataforsandiego.github.io/)
    - CareDirect: Our team won $1000 for Most Innovative Project! Check it out here: https://github.com/BigDataForSanDiego/Team-229
 <!--
