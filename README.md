@@ -7,9 +7,8 @@
 I'm a third-year Data Science and Math-CS student at UC San Diego 🔱.
 
  I'm currently working at:
-  <!-- - Nowhere! Would love to work on new projects :) -->
+  - 🍌 [Amazon Web Services](https://aws.amazon.com/athena/) as an incoming Software Development Engineering Intern! Working on AWS Athena! 
   - ⚛️ [AIRE Labs](https://aobol.github.io/AoboLi/) as a Machine Learning Researcher, building a framework to streamline quantization and hyperparameter searching through Bayesian optimization. (HDSI Research Scholarship Project)
-  - 🔬 [LASR Labs](https://quote.ucsd.edu/lasr/lab-members/) as an Undergraduate Research Assistant, researching how STT LLMs interact with child and accented speech!
   - 🧑🏻‍🏫 [Association for Computing Machinery (ACM) @ UCSD](https://acmucsd.com/) as a Professional Events Director, teaching how to approach Leetcode and other tech interview subjects!
 
 
