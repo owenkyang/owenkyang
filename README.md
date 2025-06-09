@@ -1,7 +1,7 @@
 # Hi! I'm Owen 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader;Data+Scientist;Weight+Lifter;I+Can't+Cry+About+Having;A+Lot+On+My+Plate;When+My+Goal+Was+To+Eat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Student;Software+Engineer;Data+Scientist;Weight+Lifter;I+Can't+Cry+About+Having;A+Lot+On+My+Plate;When+My+Goal+Was+To+Eat)](https://git.io/typing-svg)
 
 
 I'm a third-year Data Science and Math-CS student at UC San Diego 🔱.
